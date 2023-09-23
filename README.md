@@ -3,7 +3,6 @@
   <body>
     
     <h3>by Katelyn Fong | 09/22/2023</h3>
-    <h3>by Katelyn Fong | 09/22/2023</h3>
     <h1>Day in the life of an average teenager!</h1>
     <h2>Morning routine</h2>
     <img
