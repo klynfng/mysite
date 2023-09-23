@@ -22,7 +22,7 @@
     </p>
     <h2>Swim practice</h2>
     <img
-      src="dive.png"
+      src="dive.jpg"
     />
     <p>
       After water-polo practice, I head home and chill a bit until I head back to CPE for Cerritos Aquatics swim practice from 5PM to 7PM. It's plenty of good exercise and helps me stay fit. 
